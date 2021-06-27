@@ -1,0 +1,19 @@
+{
+  "name": "HelloWord.js",
+  "version": "0.3.0",
+  "description": "Meu primeiro programa no Heroku",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "HelloWord"
+  ],
+  "license": "MIT"
+}
