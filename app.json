@@ -1,6 +1,0 @@
-{
-  "name": "Hello World: Node.js",
-  "description": "Meu primeiro programa em node",
-  "keywords": ["node", "hello World", "heroku"],
-  "image": "heroku/nodejs"
-}
